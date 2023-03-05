@@ -1,7 +1,16 @@
 available: false
 id: 0
 mainset:
-- names: []
-name: 'New Townname #0'
-source: ''
+- names:
+  - name: www
+    probability: 1
+- names:
+  - name: ssss
+    probability: 1
+  - name: sfafgfagag
+    probability: 1
+  - name: sg1214
+    probability: 1
+name: Cool Town Names v1.0
+source: null
 subsets: []
