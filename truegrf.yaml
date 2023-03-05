@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f27b22f4
+license: CC-BY-4.0
+name: cooltownnames
 type: townname
+url: https://github.com/WizzStar/cooltownnames
 version: 6
