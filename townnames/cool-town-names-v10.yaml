@@ -2,15 +2,20 @@ available: false
 id: 0
 mainset:
 - names:
-  - name: www
+  - name: 'Star '
+    probability: 1
+  - name: Star
     probability: 1
 - names:
-  - name: ssss
+  - name: Love
     probability: 1
-  - name: sfafgfagag
-    probability: 1
-  - name: sg1214
+  - name: Killer
     probability: 1
 name: Cool Town Names v1.0
 source: null
-subsets: []
+subsets:
+- name: single names
+  parts:
+  - names:
+    - name: Scream
+      probability: 1
